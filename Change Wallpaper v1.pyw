@@ -10,7 +10,7 @@ from io import BytesIO
 import threading  # For parallel downloads
 
 # Define the path to your wallpaper folder
-wallpaper_folder = r"C:\Users\Saad\Desktop\Flash Cards"
+wallpaper_folder = os.path.join(os.path.expanduser("~"), "Desktop", "Flash Cards")
 
 # Function to download images in the background
 def download_images():
