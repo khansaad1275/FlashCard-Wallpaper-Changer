@@ -8,8 +8,6 @@ The **FlashCard Wallpaper Changer** is a user-friendly program designed to help 
 
 ### Python Script: [Download](https://github.com/khansaad1275/FlashCard-Wallpaper-Changer/releases/download/untagged-e1253ef611d51c7dc875/Change.Wallpaper.v1.pyw)
 
-<br/>
-
 ### Windows EXE: [Download](https://github.com/khansaad1275/FlashCard-Wallpaper-Changer/releases/download/v1.alpha/Change.Wallpaper.v1.exe)
 
 
