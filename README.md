@@ -6,7 +6,7 @@ The **FlashCard Wallpaper Changer** is a user-friendly program designed to help 
 
 ## Download
 
-Click [here](https://raw.githubusercontent.com/khansaad1275/FlashCard-Wallpaper-Changer/main/Change%20Wallpaper%20v1.pyw) to download the tool.
+Click [here](https://github.com/khansaad1275/FlashCard-Wallpaper-Changer/releases/download/untagged-e1253ef611d51c7dc875/Change.Wallpaper.v1.pyw) to download the tool.
 
 
 ## Features
