@@ -1,4 +1,4 @@
-# 🎨 FlashCard Wallpaper Changer 🎨
+# FlashCard Wallpaper Changer 🌌🔁
 
 ## Overview
 
