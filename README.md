@@ -4,6 +4,11 @@
 
 The **FlashCard Wallpaper Changer** is a user-friendly program designed to help you easily change your desktop wallpaper. It turns your desktop into a flashcard system, displaying different images to help you learn or remember important information. 🌟
 
+## Download
+
+Click [here](https://raw.githubusercontent.com/khansaad1275/FlashCard-Wallpaper-Changer/main/Change%20Wallpaper%20v1.pyw) to download the tool.
+
+
 ## Features
 
 - **🔄 Random Wallpaper Change:** Switches your desktop wallpaper to a new random image from a specified folder.
