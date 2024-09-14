@@ -1,3 +1,6 @@
+## This was a 1 hr speed run of me creating my own software from start to finish and posting it on the internet.🏃‍♂️👨‍💻💻
+
+
 # FlashCard Wallpaper Changer 🌌🔁
 
 ## Overview
